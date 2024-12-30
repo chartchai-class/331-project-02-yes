@@ -1,0 +1,3062 @@
+[
+  {
+    "id": 1,
+    "country": "United States",
+    "description": "The United States performed exceptionally well at the 2024 Paris Olympics, winning gold medals in multiple events.",
+    "gold": 40,
+    "silver": 44,
+    "bronze": 42,
+    "icon": "/images/USA.png",
+    "sports": [
+      {
+        "name": "Athletics",
+        "gold": 10,
+        "silver": 8,
+        "bronze": 6
+      },
+      {
+        "name": "Swimming",
+        "gold": 15,
+        "silver": 9,
+        "bronze": 7
+      },
+      {
+        "name": "Basketball",
+        "gold": 2,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Volleyball",
+        "gold": 2,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "name": "Football",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Baseball/Softball",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Gymnastics",
+        "gold": 4,
+        "silver": 3,
+        "bronze": 2
+      },
+      {
+        "name": "Tennis",
+        "gold": 3,
+        "silver": 2,
+        "bronze": 1
+      },
+      {
+        "name": "Cycling",
+        "gold": 3,
+        "silver": 2,
+        "bronze": 1
+      },
+      {
+        "name": "Rowing",
+        "gold": 2,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Sailing",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Shooting",
+        "gold": 2,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Wrestling",
+        "gold": 3,
+        "silver": 2,
+        "bronze": 1
+      },
+      {
+        "name": "Boxing",
+        "gold": 2,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Judo",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Taekwondo",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Equestrian",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Fencing",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Golf",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Handball",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Hockey",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Modern Pentathlon",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "name": "Rugby Sevens",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "name": "Triathlon",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Water Polo",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "name": "Beach Volleyball",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "name": "Breakdancing",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Climbing",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Skateboarding",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Surfing",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Archery",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Canoe/Kayak",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Diving",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Synchronized Swimming",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Artistic Swimming",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0
+      }
+    ]
+
+  },
+  {
+    "id": 2,
+    "country": "China",
+    "description": "China achieved historic breakthroughs at the 2024 Paris Olympics, securing gold medals in several events for the first time.",
+    "gold": 40,
+    "silver": 27,
+    "bronze": 24,
+    "icon": "/images/CHN.png",
+    "sports": [
+      {
+        "name": "Athletics",
+        "gold": 5,
+        "silver": 3,
+        "bronze": 4
+      },
+      {
+        "name": "Swimming",
+        "gold": 4,
+        "silver": 2,
+        "bronze": 3
+      },
+      {
+        "name": "Gymnastics",
+        "gold": 3,
+        "silver": 2,
+        "bronze": 1
+      },
+      {
+        "name": "Table Tennis",
+        "gold": 4,
+        "silver": 0,
+        "bronze": 1
+      },
+      {
+        "name": "Badminton",
+        "gold": 2,
+        "silver": 1,
+        "bronze": 2
+      },
+      {
+        "name": "Weightlifting",
+        "gold": 5,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Diving",
+        "gold": 4,
+        "silver": 2,
+        "bronze": 1
+      },
+      {
+        "name": "Shooting",
+        "gold": 2,
+        "silver": 1,
+        "bronze": 2
+      },
+      {
+        "name": "Taekwondo",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Wrestling",
+        "gold": 2,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Judo",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Cycling",
+        "gold": 2,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Fencing",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Boxing",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Canoe/Kayak",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Rowing",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 1
+      },
+      {
+        "name": "Sailing",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 1
+      },
+      {
+        "name": "Equestrian",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Triathlon",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Volleyball",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Basketball",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Football",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "name": "Handball",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+      },
+      {
+        "name": "Hockey",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+      },
+      {
+        "name": "Tennis",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "name": "Synchronized Swimming",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Artistic Swimming",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Modern Pentathlon",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "name": "Karate",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Archery",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Baseball/Softball",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Beach Volleyball",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+      },
+      {
+        "name": "Breakdancing",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Climbing",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Rugby Sevens",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Skateboarding",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Surfing",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      }
+    ]
+
+  },
+  {
+    "id": 3,
+    "country": "Japan",
+    "description": "Japan also performed well at the 2024 Paris Olympics, achieving notable success in traditional strong events.",
+    "gold": 20,
+    "silver": 12,
+    "bronze": 13,
+    "icon": "/images/JPN.png",
+    "sports": [
+      {
+        "name": "Athletics",
+        "gold": 2,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Swimming",
+        "gold": 3,
+        "silver": 2,
+        "bronze": 1
+      },
+      {
+        "name": "Gymnastics",
+        "gold": 2,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Table Tennis",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Badminton",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Weightlifting",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Diving",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "name": "Shooting",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Taekwondo",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Wrestling",
+        "gold": 3,
+        "silver": 2,
+        "bronze": 1
+      },
+      {
+        "name": "Judo",
+        "gold": 4,
+        "silver": 2,
+        "bronze": 1
+      },
+      {
+        "name": "Cycling",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Fencing",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "name": "Boxing",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Canoe/Kayak",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Rowing",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "name": "Sailing",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+      },
+      {
+        "name": "Equestrian",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+      },
+      {
+        "name": "Triathlon",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Volleyball",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "name": "Basketball",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+      },
+      {
+        "name": "Football",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+      },
+      {
+        "name": "Handball",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Hockey",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Tennis",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Synchronized Swimming",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "name": "Artistic Swimming",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "name": "Modern Pentathlon",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Karate",
+        "gold": 2,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Archery",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "name": "Baseball/Softball",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Beach Volleyball",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+      },
+      {
+        "name": "Breakdancing",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Climbing",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Rugby Sevens",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Skateboarding",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Surfing",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "country": "Australia",
+    "description": "Australia had a strong showing at the 2024 Paris Olympics, particularly in swimming and athletics.",
+    "gold": 18,
+    "silver": 19,
+    "bronze": 16,
+    "icon": "/images/AUS.png",
+    "sports": [
+      {
+        "name": "Athletics",
+        "gold": 4,
+        "silver": 3,
+        "bronze": 2
+      },
+      {
+        "name": "Swimming",
+        "gold": 2,
+        "silver": 2,
+        "bronze": 1
+      },
+      {
+        "name": "Cycling",
+        "gold": 3,
+        "silver": 2,
+        "bronze": 1
+      },
+      {
+        "name": "Gymnastics",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Football",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Basketball",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "name": "Volleyball",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "name": "Handball",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Hockey",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Tennis",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Rowing",
+        "gold": 2,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Sailing",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Shooting",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Wrestling",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Boxing",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Judo",
+        "gold": 2,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Taekwondo",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Equestrian",
+        "gold": 2,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Fencing",
+        "gold": 2,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Modern Pentathlon",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Triathlon",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Water Polo",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Beach Volleyball",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+      },
+      {
+        "name": "Breakdancing",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Climbing",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Rugby Sevens",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Skateboarding",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Surfing",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Archery",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "name": "Canoe/Kayak",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Diving",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "name": "Synchronized Swimming",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "name": "Artistic Swimming",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "name": "Baseball/Softball",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "country": "France",
+    "description": "As the host nation, France had a successful Olympics, with strong performances in cycling and judo.",
+    "gold": 16,
+    "silver": 26,
+    "bronze": 22,
+    "icon": "/images/FRA.png",
+    "sports": [
+      {
+        "name": "Athletics",
+        "gold": 3,
+        "silver": 2,
+        "bronze": 2
+      },
+      {
+        "name": "Swimming",
+        "gold": 6,
+        "silver": 4,
+        "bronze": 3
+      },
+      {
+        "name": "Cycling",
+        "gold": 2,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Gymnastics",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "name": "Football",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+      },
+      {
+        "name": "Basketball",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "name": "Volleyball",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Handball",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Hockey",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Tennis",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "name": "Rowing",
+        "gold": 2,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Sailing",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Shooting",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "name": "Wrestling",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+      },
+      {
+        "name": "Boxing",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "name": "Judo",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+      },
+      {
+        "name": "Taekwondo",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+      },
+      {
+        "name": "Equestrian",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Fencing",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+      },
+      {
+        "name": "Modern Pentathlon",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Triathlon",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Water Polo",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Beach Volleyball",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "name": "Breakdancing",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Climbing",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Rugby Sevens",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Skateboarding",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Surfing",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Archery",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+      },
+      {
+        "name": "Canoe/Kayak",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Diving",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "name": "Synchronized Swimming",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Artistic Swimming",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Baseball/Softball",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "country": "Netherlands",
+    "description": "Netherlands performed well in cycling and speed skating.",
+    "gold": 15,
+    "silver": 7,
+    "bronze": 12,
+    "icon": "/images/NED.png",
+    "sports": [
+      {
+        "name": "Athletics",
+        "gold": 3,
+        "silver": 2,
+        "bronze": 1
+      },
+      {
+        "name": "Swimming",
+        "gold": 2,
+        "silver": 1,
+        "bronze": 2
+      },
+      {
+        "name": "Cycling",
+        "gold": 3,
+        "silver": 2,
+        "bronze": 1
+      },
+      {
+        "name": "Gymnastics",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Football",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "name": "Basketball",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+      },
+      {
+        "name": "Volleyball",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+      },
+      {
+        "name": "Handball",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Hockey",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Tennis",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "name": "Rowing",
+        "gold": 2,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Sailing",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Shooting",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Wrestling",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Boxing",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "name": "Judo",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Taekwondo",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Equestrian",
+        "gold": 2,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Fencing",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Modern Pentathlon",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Triathlon",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "name": "Water Polo",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Beach Volleyball",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+      },
+      {
+        "name": "Breakdancing",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Climbing",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Rugby Sevens",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Skateboarding",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Surfing",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Archery",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "name": "Canoe/Kayak",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Diving",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "name": "Synchronized Swimming",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Artistic Swimming",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Baseball/Softball",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "country": "Great Britain",
+    "description": "Great Britain had a strong showing in cycling and athletics.",
+    "gold": 14,
+    "silver": 22,
+    "bronze": 29,
+    "icon": "/images/GBR.png",
+    "sports": [
+      {
+        "name": "Athletics",
+        "gold": 2,
+        "silver": 2,
+        "bronze": 1
+      },
+      {
+        "name": "Swimming",
+        "gold": 3,
+        "silver": 2,
+        "bronze": 1
+      },
+      {
+        "name": "Cycling",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Gymnastics",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "name": "Football",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+      },
+      {
+        "name": "Basketball",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+      },
+      {
+        "name": "Volleyball",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "name": "Handball",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+      },
+      {
+        "name": "Hockey",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Tennis",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Rowing",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Sailing",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Shooting",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "name": "Wrestling",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Boxing",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "name": "Judo",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Taekwondo",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Equestrian",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Fencing",
+        "gold": 2,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Modern Pentathlon",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+      },
+      {
+        "name": "Triathlon",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "name": "Water Polo",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+      },
+      {
+        "name": "Beach Volleyball",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+      },
+      {
+        "name": "Breakdancing",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Climbing",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Rugby Sevens",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Skateboarding",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Surfing",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Archery",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "name": "Canoe/Kayak",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Diving",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "name": "Synchronized Swimming",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Artistic Swimming",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Baseball/Softball",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "country": "South Korea",
+    "description": "South Korea excelled in archery and taekwondo.",
+    "gold": 13,
+    "silver": 9,
+    "bronze": 10,
+    "icon": "/images/KOR.png",
+    "sports": [
+      {
+        "name": "Athletics",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Swimming",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 1
+      },
+      {
+        "name": "Cycling",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "name": "Gymnastics",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "name": "Football",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+      },
+      {
+        "name": "Basketball",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Volleyball",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+      },
+      {
+        "name": "Handball",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Hockey",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Tennis",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "name": "Rowing",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+      },
+      {
+        "name": "Sailing",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+      },
+      {
+        "name": "Shooting",
+        "gold": 2,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Wrestling",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Boxing",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 1
+      },
+      {
+        "name": "Judo",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Taekwondo",
+        "gold": 2,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Equestrian",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Fencing",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Modern Pentathlon",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Triathlon",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+      },
+      {
+        "name": "Water Polo",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Beach Volleyball",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Breakdancing",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Climbing",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Rugby Sevens",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Skateboarding",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Surfing",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Archery",
+        "gold": 2,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "name": "Canoe/Kayak",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Diving",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "name": "Synchronized Swimming",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Artistic Swimming",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Baseball/Softball",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "country": "Italy",
+    "description": "Italy had a strong performance in athletics and fencing.",
+    "gold": 12,
+    "silver": 13,
+    "bronze": 15,
+    "icon": "/images/ITA.png",
+    "sports": [
+      {
+        "name": "Athletics",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Swimming",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Cycling",
+        "gold": 2,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Gymnastics",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "name": "Football",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+      },
+      {
+        "name": "Basketball",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Volleyball",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+      },
+      {
+        "name": "Handball",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Hockey",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "name": "Tennis",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "name": "Rowing",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Sailing",
+        "gold": 2,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Shooting",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "name": "Wrestling",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Boxing",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "name": "Judo",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Taekwondo",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Equestrian",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Fencing",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "name": "Modern Pentathlon",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+      },
+      {
+        "name": "Triathlon",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "name": "Water Polo",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Beach Volleyball",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+      },
+      {
+        "name": "Breakdancing",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Climbing",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Rugby Sevens",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Skateboarding",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Surfing",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Archery",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "name": "Canoe/Kayak",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Diving",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "name": "Synchronized Swimming",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Artistic Swimming",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Baseball/Softball",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "country": "Germany",
+    "description": "Germany performed well in athletics and rowing.",
+    "gold": 12,
+    "silver": 13,
+    "bronze": 8,
+    "icon": "/images/GER.png",
+    "sports": [
+      {
+        "name": "Athletics",
+        "gold": 1,
+        "silver": 2,
+        "bronze": 1
+      },
+      {
+        "name": "Swimming",
+        "gold": 2,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Cycling",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Gymnastics",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "name": "Football",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+      },
+      {
+        "name": "Basketball",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+      },
+      {
+        "name": "Volleyball",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+      },
+      {
+        "name": "Handball",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Hockey",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+      },
+      {
+        "name": "Tennis",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "name": "Rowing",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Sailing",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Shooting",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "name": "Wrestling",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Boxing",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "name": "Judo",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Taekwondo",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Equestrian",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "name": "Fencing",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "name": "Modern Pentathlon",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+      },
+      {
+        "name": "Triathlon",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "name": "Water Polo",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Beach Volleyball",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+      },
+      {
+        "name": "Breakdancing",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Climbing",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Rugby Sevens",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Skateboarding",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Surfing",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Archery",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "name": "Canoe/Kayak",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Diving",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "name": "Synchronized Swimming",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Artistic Swimming",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Baseball/Softball",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "country": "New Zealand",
+    "description": "New Zealand had a strong showing in athletics and rowing.",
+    "gold": 10,
+    "silver": 7,
+    "bronze": 3,
+    "icon": "/images/NZL.png",
+    "sports": [
+      {
+        "name": "Athletics",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Swimming",
+        "gold": 2,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Cycling",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Gymnastics",
+        "gold": 2,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Football",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+      },
+      {
+        "name": "Basketball",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+      },
+      {
+        "name": "Volleyball",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+      },
+      {
+        "name": "Handball",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Hockey",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+      },
+      {
+        "name": "Tennis",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "name": "Rowing",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Sailing",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Shooting",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "name": "Wrestling",
+        "gold": 2,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Boxing",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "name": "Judo",
+        "gold": 3,
+        "silver": 2,
+        "bronze": 1
+      },
+      {
+        "name": "Taekwondo",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Equestrian",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "name": "Fencing",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "name": "Modern Pentathlon",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+      },
+      {
+        "name": "Triathlon",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "name": "Water Polo",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Beach Volleyball",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+      },
+      {
+        "name": "Breakdancing",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Climbing",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Rugby Sevens",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Skateboarding",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Surfing",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Archery",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "name": "Canoe/Kayak",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Diving",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "name": "Synchronized Swimming",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Artistic Swimming",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Baseball/Softball",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "country": "Canada",
+    "description": "Canada performed well in athletics and swimming.",
+    "gold": 9,
+    "silver": 7,
+    "bronze": 11,
+    "icon": "/images/CAN.png",
+    "sports": [
+      {
+        "name": "Athletics",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Swimming",
+        "gold": 2,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Cycling",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Gymnastics",
+        "gold": 2,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Football",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+      },
+      {
+        "name": "Basketball",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+      },
+      {
+        "name": "Volleyball",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+      },
+      {
+        "name": "Handball",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Hockey",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+      },
+      {
+        "name": "Tennis",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "name": "Rowing",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Sailing",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Shooting",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "name": "Wrestling",
+        "gold": 2,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Boxing",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "name": "Judo",
+        "gold": 3,
+        "silver": 2,
+        "bronze": 1
+      },
+      {
+        "name": "Taekwondo",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Equestrian",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "name": "Fencing",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "name": "Modern Pentathlon",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+      },
+      {
+        "name": "Triathlon",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "name": "Water Polo",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Beach Volleyball",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+      },
+      {
+        "name": "Breakdancing",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Climbing",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Rugby Sevens",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Skateboarding",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Surfing",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Archery",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "name": "Canoe/Kayak",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Diving",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "name": "Synchronized Swimming",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Artistic Swimming",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Baseball/Softball",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "country": "Uzbekistan",
+    "description": "Uzbekistan had a strong performance in wrestling and judo.",
+    "gold": 8,
+    "silver": 2,
+    "bronze": 3,
+    "icon": "/images/UZB.png",
+    "sports": [
+      {
+        "name": "Athletics",
+        "gold": 3,
+        "silver": 2,
+        "bronze": 1
+      },
+      {
+        "name": "Swimming",
+        "gold": 4,
+        "silver": 3,
+        "bronze": 2
+      },
+      {
+        "name": "Cycling",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Gymnastics",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "name": "Football",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+      },
+      {
+        "name": "Basketball",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "name": "Volleyball",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+      },
+      {
+        "name": "Handball",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Hockey",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Tennis",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "name": "Rowing",
+        "gold": 2,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Sailing",
+        "gold": 2,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Shooting",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "name": "Wrestling",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Boxing",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "name": "Judo",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Taekwondo",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Equestrian",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "name": "Fencing",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "name": "Modern Pentathlon",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+      },
+      {
+        "name": "Triathlon",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Water Polo",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Beach Volleyball",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "name": "Breakdancing",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Climbing",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Rugby Sevens",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Skateboarding",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Surfing",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Archery",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "name": "Canoe/Kayak",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Diving",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "name": "Synchronized Swimming",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Artistic Swimming",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Baseball/Softball",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "country": "Hungary",
+    "description": "Hungary excelled in fencing and water polo.",
+    "gold": 6,
+    "silver": 7,
+    "bronze": 6,
+    "icon": "/images/HUN.png",
+    "sports": [
+      {
+        "name": "Fencing",
+        "gold": 3,
+        "silver": 3,
+        "bronze": 2
+      },
+      {
+        "name": "Water Polo",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Swimming",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Football",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Archery",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "name": "Cycling",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "country": "Spain",
+    "description": "Spain performed well in cycling and athletics.",
+    "gold": 5,
+    "silver": 4,
+    "bronze": 9,
+    "icon": "/images/ESP.png",
+    "sports": [
+      {
+        "name": "Cycling",
+        "gold": 2,
+        "silver": 2,
+        "bronze": 2
+      },
+      {
+        "name": "Athletics",
+        "gold": 2,
+        "silver": 1,
+        "bronze": 3
+      },
+      {
+        "name": "Football",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Tennis",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+      },
+      {
+        "name": "Rowing",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "country": "Sweden",
+    "description": "Sweden had a strong showing in athletics and swimming.",
+    "gold": 4,
+    "silver": 4,
+    "bronze": 3,
+    "icon": "/images/SWE.png",
+    "sports": [
+      {
+        "name": "Athletics",
+        "gold": 2,
+        "silver": 2,
+        "bronze": 1
+      },
+      {
+        "name": "Swimming",
+        "gold": 2,
+        "silver": 2,
+        "bronze": 2
+      },
+      {
+        "name": "Cycling",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "country": "Kenya",
+    "description": "Kenya excelled in long-distance running.",
+    "gold": 4,
+    "silver": 2,
+    "bronze": 5,
+    "icon": "/images/KEN.png",
+    "sports": [
+      {
+        "name": "Athletics",
+        "gold": 4,
+        "silver": 2,
+        "bronze": 5
+      },
+      {
+        "name": "Football",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "name": "Triathlon",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "country": "Norway",
+    "description": "Norway performed well in athletics and cross-country skiing.",
+    "gold": 4,
+    "silver": 1,
+    "bronze": 3,
+    "icon": "/images/NOR.png",
+    "sports": [
+      {
+        "name": "Athletics",
+        "gold": 2,
+        "silver": 1,
+        "bronze": 1
+      },
+      {
+        "name": "Cross-Country Skiing",
+        "gold": 2,
+        "silver": 0,
+        "bronze": 2
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "country": "Ireland",
+    "description": "Ireland had a strong showing in athletics and boxing.",
+    "gold": 4,
+    "silver": 0,
+    "bronze": 3,
+    "icon": "/images/IRL.png",
+    "sports": [
+      {
+        "name": "Athletics",
+        "gold": 2,
+        "silver": 0,
+        "bronze": 1
+      },
+      {
+        "name": "Boxing",
+        "gold": 2,
+        "silver": 0,
+        "bronze": 2
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "country": "Brazil",
+    "description": "Brazil performed well in football and volleyball.",
+    "gold": 3,
+    "silver": 7,
+    "bronze": 10,
+    "icon": "/images/BRA.png",
+    "sports": [
+      {
+        "name": "Football",
+        "gold": 1,
+        "silver": 2,
+        "bronze": 2
+      },
+      {
+        "name": "Volleyball",
+        "gold": 1,
+        "silver": 2,
+        "bronze": 2
+      },
+      {
+        "name": "Athletics",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 2
+      }
+    ]
+  }
+]
